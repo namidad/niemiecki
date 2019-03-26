@@ -112,13 +112,16 @@ class App extends Component {
   }
 
   handleChange = () => {
-    const ind = Math.floor(Math.random()*this.state.slowka.length);
-    this.setState({
-      index: ind,
-      div1: {background: "white", pointerEvents: "auto"},
-      div2: {background: "white", pointerEvents: "auto"},
-      div3: {background: "white", pointerEvents: "auto"},
-    })
+    if(this.state.slowka.length>0){
+      const ind = Math.floor(Math.random()*this.state.slowka.length);
+      this.setState({
+        index: ind,
+        div1: {background: "white", pointerEvents: "auto"},
+        div2: {background: "white", pointerEvents: "auto"},
+        div3: {background: "white", pointerEvents: "auto"},
+      })
+    }
+    
   }
 
 
@@ -142,8 +145,6 @@ class App extends Component {
             <div className={"stats"}><div>Zostało słówek: {this.state.slowka.length}</div>
             <div>Poprawne odpowiedzi: {this.state.correct}</div>
             <div>Bledne odpowiedzi: {this.state.incorrect}</div></div>
-            
-
           </div>
           
         </div>
