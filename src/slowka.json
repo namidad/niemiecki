@@ -1,0 +1,310 @@
+[
+    {
+        "word": "litera",
+        "rodzajnik": "der",
+        "translated": "Buchstabe",
+        "amount": 2
+    },
+    {
+        "word": "spotkanie",
+        "rodzajnik": "das",
+        "translated": "Wiedersehen",
+        "amount": 2
+    },
+    {
+        "word": "maszyna",
+        "rodzajnik": "der",
+        "translated": "Automat",
+        "amount": 2
+    },
+    {
+        "word": "dziecko",
+        "rodzajnik": "das",
+        "translated": "Baby",
+        "amount": 2
+    },
+    {
+        "word": "banan",
+        "rodzajnik": "die",
+        "translated": "Banane",
+        "amount": 2
+    },
+    {
+        "word": "komputer",
+        "rodzajnik": "der",
+        "translated": "Computer",
+        "amount": 2
+    },
+    {
+        "word": "film",
+        "rodzajnik": "der",
+        "translated": "Film",
+        "amount": 2
+    },
+    {
+        "word": "zdjęcie",
+        "rodzajnik": "das",
+        "translated": "Foto",
+        "amount": 2
+    },
+    {
+        "word": "bankomat",
+        "rodzajnik": "der",
+        "translated": "Geldautomat",
+        "amount": 2
+    },
+    {
+        "word": "gitara",
+        "rodzajnik": "die",
+        "translated": "Gitarre",
+        "amount": 2
+    },
+    {
+        "word": "hotel",
+        "rodzajnik": "das",
+        "translated": "Hotel",
+        "amount": 2
+    },
+    {
+        "word": "internet",
+        "rodzajnik": "das",
+        "translated": "Internet",
+        "amount": 2
+    },
+    {
+        "word": "kawa",
+        "rodzajnik": "der",
+        "translated": "Kaffee",
+        "amount": 2
+    },
+    {
+        "word": "muzeum",
+        "rodzajnik": "das",
+        "translated": "Museum",
+        "amount": 2
+    },
+    {
+        "word": "poczta",
+        "rodzajnik": "die",
+        "translated": "Post",
+        "amount": 2
+    },
+    {
+        "word": "radio",
+        "rodzajnik": "das",
+        "translated": "Radio",
+        "amount": 2
+    },
+    {
+        "word": "sms",
+        "rodzajnik": "die",
+        "translated": "SMS",
+        "amount": 2
+    },
+    {
+        "word": "taxi",
+        "rodzajnik": "das",
+        "translated": "Taxi",
+        "amount": 2
+    },
+    {
+        "word": "telefon",
+        "rodzajnik": "das",
+        "translated": "Telefon",
+        "amount": 2
+    },
+    {
+        "word": "uniwersytet",
+        "rodzajnik": "die",
+        "translated": "Universität",
+        "amount": 2
+    },
+    {
+        "word": "słowo",
+        "rodzajnik": "das",
+        "translated": "Wort",
+        "amount": 2
+    },
+    {
+        "word": "przykład",
+        "rodzajnik": "das",
+        "translated": "Beispiel",
+        "amount": 2
+    },
+    {
+        "word": "przeprosiny",
+        "rodzajnik": "die",
+        "translated": "Entschuldingung",
+        "amount": 2
+    },
+    {
+        "word": "nazwisko",
+        "rodzajnik": "der",
+        "translated": "Familienname",
+        "amount": 2
+    },
+    {
+        "word": "kobieta",
+        "rodzajnik": "die",
+        "translated": "Frau",
+        "amount": 2
+    },
+    {
+        "word": "pan",
+        "rodzajnik": "der",
+        "translated": "Herr",
+        "amount": 2
+    },
+    {
+        "word": "imię",
+        "rodzajnik": "der",
+        "translated": "Name",
+        "amount": 2
+    },
+    {
+        "word": "telefon",
+        "rodzajnik": "das",
+        "translated": "Handy",
+        "amount": 2
+    },
+    {
+        "word": "kawiarnia",
+        "rodzajnik": "das",
+        "translated": "Café",
+        "amount": 2
+    },
+    {
+        "word": "zegar",
+        "rodzajnik": "die",
+        "translated": "Uhr",
+        "amount": 2
+    },
+    {
+        "word": "pytanie",
+        "rodzajnik": "die",
+        "translated": "Frage",
+        "amount": 2
+    },
+    {
+        "word": "obraz",
+        "rodzajnik": "das",
+        "translated": "Bild",
+        "amount": 2
+    },
+    {
+        "word": "tabela",
+        "rodzajnik": "die",
+        "translated": "Tabelle",
+        "amount": 2
+    },
+    {
+        "word": "ołówek",
+        "rodzajnik": "der",
+        "translated": "Bleistift",
+        "amount": 2
+    },
+    {
+        "word": "książka",
+        "rodzajnik": "das",
+        "translated": "Buch",
+        "amount": 2
+    },
+    {
+        "word": "CD",
+        "rodzajnik": "die",
+        "translated": "CD",
+        "amount": 2
+    },
+    {
+        "word": "okno",
+        "rodzajnik": "das",
+        "translated": "Fenster",
+        "amount": 2
+    },
+    {
+        "word": "zeszyt",
+        "rodzajnik": "das",
+        "translated": "Heft",
+        "amount": 2
+    },
+    {
+        "word": "długopis",
+        "rodzajnik": "der",
+        "translated": "Kugelschreiber",
+        "amount": 2
+    },
+    {
+        "word": "lampa",
+        "rodzajnik": "die",
+        "translated": "Lampe",
+        "amount": 2
+    },
+    {
+        "word": "numer",
+        "rodzajnik": "die",
+        "translated": "Nummer",
+        "amount": 2
+    },
+    {
+        "word": "papier",
+        "rodzajnik": "das",
+        "translated": "Papier",
+        "amount": 2
+    },
+    {
+        "word": "krzesło",
+        "rodzajnik": "der",
+        "translated": "Stuhl",
+        "amount": 2
+    },
+    {
+        "word": "stół",
+        "rodzajnik": "der",
+        "translated": "Tish",
+        "amount": 2
+    },
+    {
+        "word": "auto",
+        "rodzajnik": "das",
+        "translated": "Auto",
+        "amount": 2
+    },
+    {
+        "word": "bus",
+        "rodzajnik": "der",
+        "translated": "Bus",
+        "amount": 2
+    },
+    {
+        "word": "hamburger",
+        "rodzajnik": "der",
+        "translated": "Hamburger",
+        "amount": 2
+    },
+    {
+        "word": "pizza",
+        "rodzajnik": "die",
+        "translated": "Pizza",
+        "amount": 2
+    },
+    {
+        "word": "policja",
+        "rodzajnik": "die",
+        "translated": "Polizei",
+        "amount": 2
+    },
+    {
+        "word": "zdanie",
+        "rodzajnik": "der",
+        "translated": "Sätz",
+        "amount": 2
+    },
+    {
+        "word": "wc",
+        "rodzajnik": "das",
+        "translated": "WC",
+        "amount": 2
+    }
+
+
+]
