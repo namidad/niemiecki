@@ -1,14 +1,13 @@
 {
-  "main.css": "/niemiecki/static/css/main.f7a9a936.chunk.css",
-  "main.js": "/niemiecki/static/js/main.204e27a3.chunk.js",
-  "main.js.map": "/niemiecki/static/js/main.204e27a3.chunk.js.map",
+  "main.css": "/niemiecki/static/css/main.28c4e53e.chunk.css",
+  "main.js": "/niemiecki/static/js/main.c5304327.chunk.js",
+  "main.js.map": "/niemiecki/static/js/main.c5304327.chunk.js.map",
   "runtime~main.js": "/niemiecki/static/js/runtime~main.2d2fecbf.js",
   "runtime~main.js.map": "/niemiecki/static/js/runtime~main.2d2fecbf.js.map",
   "static/js/2.b934461c.chunk.js": "/niemiecki/static/js/2.b934461c.chunk.js",
   "static/js/2.b934461c.chunk.js.map": "/niemiecki/static/js/2.b934461c.chunk.js.map",
   "index.html": "/niemiecki/index.html",
-  "precache-manifest.55412bf5d8d9d9ff307a1bf7ea5d99b7.js": "/niemiecki/precache-manifest.55412bf5d8d9d9ff307a1bf7ea5d99b7.js",
+  "precache-manifest.271a9b63f33ecd85c619612ce38eda1b.js": "/niemiecki/precache-manifest.271a9b63f33ecd85c619612ce38eda1b.js",
   "service-worker.js": "/niemiecki/service-worker.js",
-  "static/css/main.f7a9a936.chunk.css.map": "/niemiecki/static/css/main.f7a9a936.chunk.css.map",
-  "static/media/logo.svg": "/niemiecki/static/media/logo.5d5d9eef.svg"
+  "static/css/main.28c4e53e.chunk.css.map": "/niemiecki/static/css/main.28c4e53e.chunk.css.map"
 }
