@@ -139,9 +139,10 @@ class App extends Component {
             <div onClick={this.handleChange} className={"nextWord"}>
             Nastepne słówko
             </div>
-            <div>Zostało słówek: {this.state.slowka.length}</div>
+            <div className={"stats"}><div>Zostało słówek: {this.state.slowka.length}</div>
             <div>Poprawne odpowiedzi: {this.state.correct}</div>
-            <div>Bledne odpowiedzi: {this.state.incorrect}</div>
+            <div>Bledne odpowiedzi: {this.state.incorrect}</div></div>
+            
 
           </div>
           
