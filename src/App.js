@@ -12,6 +12,7 @@ class App extends Component {
     div3: {},
     correct: 0,
     incorrect: 0,
+    word: slowka[0].translated,
   }
 
   handleClick = (e) => {
@@ -119,6 +120,7 @@ class App extends Component {
         div1: {background: "white", pointerEvents: "auto"},
         div2: {background: "white", pointerEvents: "auto"},
         div3: {background: "white", pointerEvents: "auto"},
+        word: this.state.slowka[ind].translated,
       })
     }
     
@@ -131,7 +133,7 @@ class App extends Component {
       <div className={"container"}>
         <div className={"testContainer"}>
           <h1 className={"wordBox"}>
-            {this.state.slowka[this.state.index].translated}
+            {this.state.word}
           </h1>
           <div className={"answerBox"}>
             <div style={this.state.div1} onClick={e => this.handleClick(1)}>der</div>
