@@ -13,6 +13,8 @@ class App extends Component {
     correct: 0,
     incorrect: 0,
     word: slowka[0].translated,
+    slowo: slowka[0].word,
+    tlumaczenie: ""
   }
 
   handleClick = (e) => {
@@ -121,29 +123,41 @@ class App extends Component {
         div2: {background: "white", pointerEvents: "auto"},
         div3: {background: "white", pointerEvents: "auto"},
         word: this.state.slowka[ind].translated,
+        slowo: this.state.slowka[ind].word,
+        tlumaczenie: ""
       })
     }
     
   }
-
+  handleShowTranslated = () => {
+    this.setState({
+      tlumaczenie: this.state.word
+    });
+  }
 
   render() {
-    console.log(this.state.slowka);
     return (
       <div className={"container"}>
         <div className={"testContainer"}>
           <h1 className={"wordBox"}>
-            {this.state.word}
+            {this.state.slowo}
           </h1>
           <div className={"answerBox"}>
             <div style={this.state.div1} onClick={e => this.handleClick(1)}>der</div>
             <div style={this.state.div2} onClick={e => this.handleClick(2)}>die</div>
             <div style={this.state.div3} onClick={e => this.handleClick(3)}>das</div>
           </div>
-          <div>
+          <h2>{this.state.tlumaczenie}</h2>
+          <div className="buttons">
+            <div className="buttonContainer">
+            <div onClick={this.handleShowTranslated} className={"nextWord"}>
+            Pokaż tłumaczenie
+            </div>
             <div onClick={this.handleChange} className={"nextWord"}>
             Nastepne słówko
             </div>
+            </div>
+            
             <div className={"stats"}><div>Zostało słówek: {this.state.slowka.length}</div>
             <div>Poprawne odpowiedzi: {this.state.correct}</div>
             <div>Bledne odpowiedzi: {this.state.incorrect}</div></div>

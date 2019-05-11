@@ -60,4 +60,25 @@ code {
 }
 .stats{
   padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.stats div{
+  text-align: center;
+}
+
+.buttons {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.buttonContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
 }
